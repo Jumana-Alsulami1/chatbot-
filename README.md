@@ -1,4 +1,3 @@
-# chatbot-
 # chatbot
 
 This task sends the user's question to Gemini and displays the answer to the question on the website.
